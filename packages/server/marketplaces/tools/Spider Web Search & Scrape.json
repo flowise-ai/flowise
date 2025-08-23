@@ -1,0 +1,8 @@
+{
+    "name": "metasearch_engine",
+    "description": "This tool provides real-time information from the internet using a Metasearch Engine, ensuring up-to-date and relevant responses. Use it to research complex topics by strategically breaking them down into multiple, targeted search queries, exploring different facets and subtopics to gather a comprehensive understanding. If needed, you can use this tool multiple times, but refine your queries based on previous results rather than repeating the same search. Before using the tool, make sure to improve the user's search query to make it clear, thorough, and optimized for the most relevant results.\n",
+    ", )",
+    "iconSrc": "https://raw.githubusercontent.com/flowise-ai/flowise/main/packages/components/nodes/documentloaders/Spider/spider.svg",
+    "schema": "[{\"id\":0,\"property\":\"query\",\"description\":\"This is the search query\",\"type\":\"string\",\"required\":true}]",
+    "fun;\n\n    });\n     {\n        ;\n        ; \n     {\n    ;\n    . \n * In.\n * Othe: The : The tw: The language t: U: T: The max: The max.\n * l: The max: Enable: Enable ant: The : The format for the returned data.\n *\n * For more options:\n * https://spider.cloud/docs/api\n */"
+}

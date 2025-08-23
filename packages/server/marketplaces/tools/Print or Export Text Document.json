@@ -1,0 +1,8 @@
+{
+    "name": "print_or_export_text_document",
+    "description": "Print or export text content to various formats. Supported `inType` values include md, html, and fountain, while supported `outType` values include pdf, epub, zip, and docx. The default `inType` is md, and the default `outType` is pdf. Provide a concise file name for the document in the `name` field. Once the print or export process is initiated, a JSON response will be returned.",
+    ", )",
+    "iconSrc": "https://raw.githubusercontent.com/JotterPad/.github/refs/heads/main/jotterpad.svg",
+    "schema": "[{\"id\":0,\"property\":\"inType\",\"description\":\"Input type of the document: md, html, fountain\",\"type\":\"string\",\"required\":false},{\"id\":1,\"property\":\"outType\",\"description\":\"Output type of the document: pdf, epub, zip, docx\",\"type\":\"string\",\"required\":false},{\"id\":2,\"property\":\"input\",\"description\":\"Input content of the document.\",\"type\":\"string\",\"required\":false},{\"id\":3,\"property\":\"metadata\",\"description\":\"Metadata of document in JSON string.\",\"type\":\"string\",\"required\":false},{\"id\":4,\"property\":\"name\",\"description\":\"Short title or name of the document.\",\"type\":\"string\",\"required\":false}]",
+    "fun;\n ? $;\n\n ? $meta ? $name : 'Unt\n};\n\n => {\n\t => {\n\t\t;\n\t});\n}\n\nt ? $ ? $;\n\t;\n\n\t { \n\t\t\n\t\t};\n\n\t\tf {\n\t\t\tawa;\n\t\t\t;\n\t\t\t;\n\t\t\t {\n                 {\n    \t\t\t\t;\n                }\n\t\t\t} el;\n            \t;\n\t\t\t}\n\t\t}\n      \n\t} el {\n\t\t;\n\t\t;\n\t} el {\n\t\t;\n\t\t;\n\t} el;\n    \t;\n\t}\n}  {\n\t;\n\t;\n}"
+}

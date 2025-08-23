@@ -1,0 +1,8 @@
+{
+    "name": "perplexity_ai_search",
+    "description": "Useful when conducting research using Perplexity AI online model.",
+    ", )",
+    "iconSrc": "https://raw.githubusercontent.com/AsharibAli/project-images/main/perplexity-ai-icon.svg",
+    "schema": "[{\"id\":1,\"property\":\"query\",\"description\":\"Query for research\",\"type\":\"string\",\"required\":true}]",
+    "fun;\n\n};\n\nt;\n\t;\n\t;\n\n\t {\n\t\tth}`);\n\t}\n\n\t;\n\t;\n}  {\n\t;\n\treturn `Error occurred while fetching data from Perplexity AI: ${error.message}`;\n}"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "make_webhook",
+    "description": "Useful when you need to send message to Discord",
+    ", )",
+    "iconSrc": "https://github.com/flowise-ai/flowise/assets/26460777/517fdab2-8a6e-4781-b3c8-fb92cc78aa0b",
+    "schema": "[{\"id\":0,\"property\":\"message\",\"description\":\"Message to send\",\"type\":\"string\",\"required\":true}]",
+    "fun;\n\n};\nt;\n    ;\n     {\n    ;\n    return '';\n}"
+}

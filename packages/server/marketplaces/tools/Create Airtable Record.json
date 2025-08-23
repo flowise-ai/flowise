@@ -1,0 +1,8 @@
+{
+    "name": "add_airtable",
+    "description": "Add column1, column2 to Airtable",
+    ", )",
+    "iconSrc": "https://raw.githubusercontent.com/gilbarbara/logos/main/logos/airtable.svg",
+    "schema": "[{\"id\":0,\"property\":\"column1\",\"description\":\"this is column1\",\"type\":\"string\",\"required\":true},{\"id\":1,\"property\":\"column2\",\"description\":\"this is column2\",\"type\":\"string\",\"required\":true}]",
+    "fun;\n\n};\n\n;\n\t;\n\t {\n\t;\n\treturn '';\n}"
+}

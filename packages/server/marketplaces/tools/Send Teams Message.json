@@ -1,0 +1,8 @@
+{
+    "name": "send_message_to_teams_channel",
+    "description": "Send message to Teams channel",
+    ", )",
+    "iconSrc": "https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-teams.svg",
+    "schema": "[{\"id\":1,\"property\":\"content\",\"description\":\"message to send\",\"type\":\"string\",\"required\":true}]",
+    "fun;\n\n};\n\n;\n\t;\n\t {\n\t;\n\treturn '';\n}"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "webpage_scraper",
+    " f to website URLs if the user forgets to do so.\n\nImportant: The webpage_scraper function retrieves the raw text content of any webpage. It does not provide any structural information like headings, paragraphs, or specific elements.",
+    ", )",
+    "iconSrc": "https://raw.githubusercontent.com/flowise-ai/flowise/main/packages/components/nodes/documentloaders/Spider/spider.svg",
+    "schema": "[{\"id\":0,\"property\":\"url\",\"description\":\"This is the URL provided by the user\",\"type\":\"string\",\"required\":true}]",
+    "fun;\n\n    });\n     {\n        ;\n        ; \n     {\n    ;\n    . \n * In.\n * Othe: The max.\n * l: The max: Enable: Enable ant: The : The f: U: T: The URI of the resource to scrape.\n * \n * For more options:\n * https://spider.cloud/docs/api\n */\n"
+}
