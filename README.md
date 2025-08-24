@@ -8,7 +8,7 @@
 <div align="center">
 
 English | [繁體中文](./i18n/README-TW.md) | [简体中文](./i18n/README-ZH.md) | [日本語](./i18n/README-JA.md) | [한국어](./i18n/README-KR.md)
-[coming ape.store](https://ape.store/base/)
+[coming ape.store](https://ape.store/base/0x2a6636a977735747ddff6d87483ce878a64e2137)
 </div>
 
 <h3>Build AI Agents, Visually</h3>
